@@ -10,8 +10,7 @@
 const LIFF_ID   = "2010597177-MwBgBa2B";
 const DRAFT_KEY = "konkatsu_qa_draft";
 
-// ▼▼▼ GASデプロイ後、発行された /exec のURLに置き換えてください ▼▼▼
-const GAS_ENDPOINT = "https://script.google.com/macros/s/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/exec";
+const GAS_ENDPOINT = "https://script.google.com/macros/s/AKfycbwa7x1G4dHYRNUkfizGSXBcyxUemJzjIfKAtpfkeMJ8YQWYFtG_Om3kwltys85oamai/exec";
 
 /* ------------------------------------------------------------
    選択肢ラベル（表示用 & 統計用の全文テキストとして共用）
