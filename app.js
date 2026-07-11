@@ -448,7 +448,7 @@ function buildShareFlexMessage(shareName, shareURL) {
         contents: [
           { type: "text", text: "婚活 自己開示QA Part1", size: "xs", weight: "bold", color: "#d96c7d" },
           { type: "text", text: nameLine, size: "lg", weight: "bold", wrap: true, margin: "sm" },
-          { type: "text", text: "ボタンから回答内容を確認できます。\n※このリンクは最初に開いた方専用です。", size: "sm", color: "#888888", wrap: true, margin: "md" }
+          { type: "text", text: "ボタンから回答内容を確認できます。", size: "sm", color: "#888888", wrap: true, margin: "md" }
         ]
       },
       footer: {
