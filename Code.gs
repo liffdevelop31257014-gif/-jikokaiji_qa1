@@ -18,7 +18,7 @@
       GAS_ENDPOINT に設定する。
    ============================================================ */
 
-var SPREADSHEET_ID   = 'ここにスプレッドシートIDを入力'; // 例: 1AbCdEfGhIjKlMnOpQrStUvWxYz...
+var SPREADSHEET_ID   = '1Z1JGoWIBh0VqxVCeFph_O4PZIEMYAKj66I2Nx69zDLY'; 
 var SHARES_SHEET      = 'Shares';
 var ANALYTICS_SHEET   = 'Analytics';
 var SCHEMA_VERSION    = 1;
